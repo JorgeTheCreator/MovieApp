@@ -1,0 +1,16 @@
+#movies img, #movie img{
+  width:70%;
+}
+
+
+
+
+@media(min-width:960px){
+  #movies .col-md-3 .card-bodyl{
+    height: 500px;
+  }
+
+  #movies .col-md-3 img{
+    height: 300px;
+}
+}
